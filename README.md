@@ -17,7 +17,7 @@ This project allows users to search for and view GIFs using the GIPHY API.
 git clone https://github.com/PalakPrateek/GIF-Explorer.git
 ```
 
-2. Obtain a GIPHY API key by creating an account on [Giphy's Developer Portal](https://developers.giphy.com/)
+2. Obtain a GIPHY API key by creating an account on [Giphy's Developer Portal](https://developers.giphy.com/).
 
 3. Add your API key to `api-key.js` file.
 
