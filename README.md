@@ -25,8 +25,6 @@ git clone https://github.com/PalakPrateek/GIF-Explorer.git
 
 ## Screenshots
 
-![Screenshot 2024-08-07 164835](https://github.com/user-attachments/assets/a000c328-2f9b-4196-a54f-0bee5840995e)
-
 ![Screenshot 2024-08-07 164954](https://github.com/user-attachments/assets/0970efe7-bce2-491c-af63-c362520ec57b)
 
 ![Screenshot 2024-08-07 165210](https://github.com/user-attachments/assets/db21951b-e5fd-4d8b-8595-bb283d16ad4c)
